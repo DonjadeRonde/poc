@@ -23,6 +23,13 @@ https://www.wunderlist.com/
 Verder heb ik gekeken naar andere to-do applicaties om te kijken hoe zij daar informatie organiseren. 
 https://www.theguardian.com/technology/2016/apr/20/seven-of-the-best-to-do-list-apps
 
+Code voorbeelden
+http://codepen.io/PageOnline/pen/nCfAj Via codepen heb ik een voorbeeld gevonden waar ze gebruik maken van Angular JS om hierarchie aan te brengen in de code. Hier in dit voorbeeld kan je organizeren op "nieuw" "op naam" etc. 
+
+http://codepen.io/osublake/pen/jrqjdy Dit is een voorbeeld op codepen waar je kan sorteren door het ene item boven het andere item te slepen. Dit vind ik persoonlijk vooral visueel mooi maar of het heel praktisch is voor het AMC denk ik niet..
+
+http://codepen.io/ifthenelse/pen/pvRVVP Tot slot is dit een voorbeeld waarbij het listitem hetzelfde blijft maar de content binnen de lijst veranderd. Dit is handig omdat je meer soorten content binnen hetzelfde blok kan gebruiken maar een nadeel is dat het niet handig is als je teveel content gebruikt, je moet onthouden wat je hebt aangeklikt omdat de content ' verwijnt '.
+
 
 Wat zijn de resultaten?
 
@@ -30,4 +37,6 @@ Wat ik eigenlijk bij heel veel voorbeelden terug zag komen, zijn de vele stappen
 https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/
 
 Conclusie:
+Ik denk dat het bedenken van een manier om de informatie van in dit geval de therapiegroepen bijvoorbeeld te organizeren en op te delen wel te doen is voor mij. Het daadwerkelijk uitwerken in HTML/CSS en Javascript wordt zeer moeilijk voor mij. En ik twijfel of ik zoiets in FramerJS kan uitwerken. 
 
+Als ik hier mee aan de slag wil gaan, dan zal ik moeten kijken naar een oplossing als bijvoorbeeld is gedaan is een van de Codepen voorbeelden. Waarin je visueel duidelijk ziet dat je informatie kan ' ranken ' naar je eigen voorkeur. 
