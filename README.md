@@ -1,4 +1,4 @@
-<h1>#poc<h1>
+#poc
 
 <h2>Mijn persoonlijke technische uitdaging?<h2>
 
