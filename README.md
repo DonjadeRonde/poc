@@ -2,7 +2,8 @@
 
 Mijn persoonlijke technische uitdaging?
 
-Ik wil Framer.JS goed onder de knie krijgen zodat ik meer mogelijkheden heb als het gaat om prototypes ontwikkelen dan alleen maar een Invision/POP prototype kunnen maken. 
+Ik wil Framer.JS goed onder de knie krijgen zodat ik meer mogelijkheden heb als het gaat om prototypes ontwikkelen dan alleen maar een Invision/POP prototype kunnen maken. Ik heb heel veel moeite met het schrijven van code en vooral als het gaat om Javascript. Ik denk daarom dat deze tool mij goed kan helpen om het beter te kunnen begrijpen. 
+
 Specifieker binnen het project wil ik mij richten op de organisatie binnen de applicatie van OCD. (De beheerderskant) Zo wil ik leren hoe ik op de beste manier bijvoorbeeld binnen lijsten/formulieren informatie kan ordenen, zodat de vele informatie makkelijker te vinden is. Ik wil graag uitzoeken op wat voor manieren dit allemaal mogelijk is. 
 
 Inleiding
