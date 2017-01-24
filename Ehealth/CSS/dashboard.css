@@ -1,0 +1,194 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 0em;
+  box-sizing: border-box;
+  background: #E0E0E0;
+}
+#logo {
+  background-color: #43C6A6;
+  top: 2em;
+  width: 9em;
+  height: 4em;
+  margin-left: 0.5%
+}
+
+#gebruiker {
+  left: 32%;
+  top: 43%;
+  position: absolute;
+  margin-top: -60px; /* ADDED */
+  margin-left: -30px; /* ADDED */;
+}
+aside {
+    float: left;
+    background-color: #E0E0E0;
+    height: 1000px;
+
+}
+body {
+    background-color: #2B3951;
+}
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
+}
+.float-right{
+  float: right;
+}
+.fa{
+ font-size: .8em;
+  line-height: 22px !important;
+}
+dropdown{
+   display: inline-block;
+   margin: 170px 50px;
+}
+dropdown label, dropdown ul li{
+  display: block;
+  width: 200px;
+  background: #ECF0F1;
+  padding: 14px 25px;
+}
+dropdown label:hover, dropdown ul li:hover{
+  background: #1ABC9C;
+  color: white;
+  cursor: pointer;
+}
+dropdown label{
+  color: #1ABC9C;
+  border-left: 4px solid #1ABC9C;
+  border-radius: 0 5px 0 0;
+  position: relative;
+  z-index: 2;
+}
+dropdown input{
+  display: none;
+}
+dropdown input ~ ul{
+  position: relative;
+  visibility: hidden;
+  opacity: 0;
+  top: -70px;
+  z-index: 1;
+}
+dropdown input:checked + label{
+  background: #1ABC9C;
+  color: white;
+}
+
+dropdown input:checked ~ ul{
+  visibility: visible;
+  opacity: 1;
+  top: 0;
+}
+$colors: #E74C3C, #0072B5, #2C3E50;
+
+@for $i from 1 through length($colors) {
+  dropdown ul li:nth-child(#{$i}) {
+    border-left: 4px solid nth($colors, $i);
+    .fa{
+      color: nth($colors, $i);
+    }
+    &:hover {
+        background: nth($colors, $i);
+        color: white;
+      .fa{
+        color: white;
+      }
+    }
+  }
+}
+
+.animate{
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+  backface-visibility:hidden;
+  -webkit-backface-visibility:hidden; /* Chrome and Safari */
+  -moz-backface-visibility:hidden; /* Firefox */
+  -ms-backface-visibility:hidden; /* Internet Explorer */
+}
+.enjoy-css {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 70em;
+  height: 1em;
+  position: absolute;
+  bottom: 35em;
+  margin: 5em;
+  padding: 2em;
+  overflow: hidden;
+  border: none;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  font: normal 16px/1 Arial, Helvetica, sans-serif;
+  color: rgba(255,255,255,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: #E49273;
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+}
+.todolist{
+  width: 70em;
+  height: 32em;
+  position: absolute;
+  bottom: 19em;
+  margin: -16.5em;
+  padding: 1em;
+  content: '';
+  display: inline-block;
+  vertical-align: left;
+  text-align: center;
+  vertical-align: middle;
+  width: 15em;
+  box-shadow:inset 0 0 5px rgba(0,0,0,0.1);  
+  font-family: 'Armata', sans-serif;
+  font-weight:bold;
+  color:#FAFAFA;
+  overflow:hidden;
+  border-top-color: rgba(0, 0, 0, 0.05);
+    
+}
+input{
+  position:absolute;
+  left:-9999px;
+}
+.task{
+  display:block;
+  height:5em;
+  transition: 500ms ease; 
+}
+.task:hover {
+box-shadow: inset -30px 0 30px -20px rgba(0, 0, 0, 0.4),inset 30px 0 30px -20px rgba(0, 0, 0, 0.4);
+}
+label{
+  position: relative;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  background: #E0E0E0;
+  font-size:1.2em;
+  line-height: 3.5em;
+
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05), inset 0 -2px 0 rgba(0, 0, 0, 0.05),inset -2px 0px 0 rgba(0, 0, 0, 0.05);
+  transform-style: preserve-3d;
+  perspective: 0;
+  transform-origin: 150px 0 -150px;
+  transition: 500ms ease;
+}
+label:hover {
+    color: rgba(237,177,47,1);
+}
+
+/*https://codepen.io/samsurysites/pen/uxqgl*/
