@@ -40,3 +40,8 @@ https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collectio
 Ik denk dat het bedenken van een manier om de informatie van in dit geval de therapiegroepen bijvoorbeeld te organizeren en op te delen wel te doen is voor mij. Het daadwerkelijk uitwerken in HTML/CSS en Javascript wordt zeer moeilijk voor mij. En ik twijfel of ik zoiets in FramerJS kan uitwerken. 
 
 Als ik hier mee aan de slag wil gaan, dan zal ik moeten kijken naar een oplossing als bijvoorbeeld is gedaan is een van de Codepen voorbeelden. Waarin je visueel duidelijk ziet dat je informatie kan ' ranken ' naar je eigen voorkeur. 
+
+## Must haves and nice to haves
+<ul><li>Een HTML pagina volledig responsive kunnen maken</li>
+<li>Meerdere animaties in Framer kunnen maken
+<li>Sneller kunnen werken, en niet een hele middag bezig zijn met erachter komen hoe je iets kunt linken bijvoorbeeld</li></ul>
