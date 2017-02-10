@@ -46,7 +46,7 @@ Als ik hier mee aan de slag wil gaan, dan zal ik moeten kijken naar een oplossin
 <li>Meerdere animaties in Framer kunnen maken</li>
 <li>In javascript werkend krijgen dat zodra er uit het menu bijvoorbeeld wordt gekozen voor 'actieve groepen' dat de content in de lijst daadwerkelijk ook veranderd</li></ul>
 
-#progressie (wat heb ik geleerd?)
+##progressie (wat heb ik geleerd?)
 <p> Ik weet van mezelf dat ik niet op gemiddeld niveau zit wat betreft code in het algemeen. Ik zit nu op het niveau dat ik het begrijp als het mij door anderen wordt uitgelegd, of als ik met anderen meekijk maar zodra ik zelf code moet schrijven loop ik snel vast.</p>
 <p> Ik heb mezelf de opdracht gegeven een lijst te maken in de stijl die wij als groep hebben bepaald. Dit is mij aardig gelukt. Ik heb gemerkt dat puur voorbeelden erbij pakken, Youtube tutorials kijken over hoe anderen code opbouwen al veel meer inzicht geven.</p>
 <p>Het is vaak moeilijk te begrijpen voor anderen dat zoiets, (wat velen zien als simpel) het centreren van elementen of het linken van een HTML pagina voor mij op dit moment al een stap is. Ik heb het idee dat ik de begrippen margin, border-radius, position etc. al een stuk beter snap en ik weet zeker als ik meer tijd heb om mezelf er weer helemaal in te verdiepen, ik nog meer stappen kan maken. Ik besef maar al te goed dat herhalen key is op dit punt. Juist omdat ik er buiten de vakken die ik heb gehad op school er niet meer mee bezig ben geweest, en het dus al moeilijk vond ben ik weer achteruit gegaan in de afgelopen tijd. Maar als ik er zoals nu dan weer even helemaal in zit, zie ik mezelf weer kleine stapjes maken, maar toch zal ik hier nog veel meer tijd in moeten steken.</p> 
