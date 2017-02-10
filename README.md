@@ -37,11 +37,16 @@ Wat ik eigenlijk bij heel veel voorbeelden terug zag komen, zijn de vele stappen
 https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/
 
 <b>Conclusie:</b>
-Ik denk dat het bedenken van een manier om de informatie van in dit geval de therapiegroepen bijvoorbeeld te organizeren en op te delen wel te doen is voor mij. Het daadwerkelijk uitwerken in HTML/CSS en Javascript wordt zeer moeilijk voor mij. En ik twijfel of ik zoiets in FramerJS kan uitwerken. 
+Ik denk dat het bedenken van een manier om de informatie van in dit geval de therapiegroepen bijvoorbeeld te organiseren en op te delen wel te doen is voor mij. Het daadwerkelijk uitwerken in HTML/CSS en Javascript wordt zeer moeilijk voor mij. En ik twijfel of ik zoiets in FramerJS kan uitwerken. 
 
 Als ik hier mee aan de slag wil gaan, dan zal ik moeten kijken naar een oplossing als bijvoorbeeld is gedaan is een van de Codepen voorbeelden. Waarin je visueel duidelijk ziet dat je informatie kan ' ranken ' naar je eigen voorkeur. 
 
 ## Must haves and nice to haves
 <ul><li>Een HTML pagina volledig responsive kunnen maken</li>
-<li>Meerdere animaties in Framer kunnen maken
-<li>Sneller kunnen werken, en niet een hele middag bezig zijn met erachter komen hoe je iets kunt linken bijvoorbeeld</li></ul>
+<li>Meerdere animaties in Framer kunnen maken</li>
+<li>In javascript werkend krijgen dat zodra er uit het menu bijvoorbeeld wordt gekozen voor 'actieve groepen' dat de content in de lijst daadwerkelijk ook veranderd</li></ul>
+
+#progressie (wat heb ik geleerd?)
+<p> Ik weet van mezelf dat ik niet op gemiddeld niveau zit wat betreft code in het algemeen. Ik zit nu op het niveau dat ik het begrijp als het mij door anderen wordt uitgelegd, of als ik met anderen meekijk maar zodra ik zelf code moet schrijven loop ik snel vast.</p>
+<p> Ik heb mezelf de opdracht gegeven een lijst te maken in de stijl die wij als groep hebben bepaald. Dit is mij aardig gelukt. Ik heb gemerkt dat puur voorbeelden erbij pakken, Youtube tutorials kijken over hoe anderen code opbouwen al veel meer inzicht geven.</p>
+<p>Het is vaak moeilijk te begrijpen voor anderen dat zoiets, (wat velen zien als simpel) het centreren van elementen of het linken van een HTML pagina voor mij op dit moment al een stap is. Ik heb het idee dat ik de begrippen margin, border-radius, position etc. al een stuk beter snap en ik weet zeker als ik meer tijd heb om mezelf er weer helemaal in te verdiepen, ik nog meer stappen kan maken.</p> 
