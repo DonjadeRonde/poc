@@ -1,0 +1,125 @@
+@import url('http://fonts.googleapis.com/css?family=Armata');
+body {
+    font-family: "Armata", sans-serif;
+    font-size: 14px;
+    color: #222;
+    margin: 250px auto;
+    width: 300px;
+    background-color: #2B3951;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 15px;
+    background-color: #E0E0E0;
+    border-bottom: 1px solid #f2f2f2;
+    margin-top: 1px;
+    width: 180px;
+    cursor: default;
+    transition: background-color 0.3s ease-in-out;
+}
+
+li:first-child {
+    border-top: 1px solid #f2f2f2;
+}
+
+li:hover {
+    background-color: #E49273;
+    color: black;
+}
+
+li:hover i.icon-minus,
+button:hover i.icon-plus {
+    display: block;
+    opacity: 1;
+}
+
+button {
+    padding: 15px;
+    background-color: #87CCB2;
+    border: 1px solid #f2f2f2;
+    width: 210px;
+    margin-left: 40px;
+    text-align: left;
+    cursor: default;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #E49273;
+    color: black;
+}
+
+i.icon-minus,
+i.icon-plus {
+    display: none;
+}
+
+.menu {
+    width: 260px;
+    margin: -550px auto 0;
+    cursor: pointer
+}
+
+.title {
+    width: 100%;
+    box-sizing: border-box;
+    background: #fff;
+    padding: 14px;
+    border-radius: 4px;
+    position: relative;
+    box-shadow: 0 0 40px -10px #000;
+    color: #505050
+}
+
+span {
+    float: right;
+    font-size: 18px!important
+}
+
+.dropdown {
+    width: 100%;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 40px -10px #000;
+    color: #505050;
+    margin-top: 24px;
+    max-height: 0;
+    overflow: hidden;
+    transition: all .5s
+}
+
+.down {
+    max-height: 150px
+}
+
+.arrow {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #fff;
+    position: absolute;
+    right: 20px;
+    bottom: -24px;
+    display: none
+}
+
+.arrow.gone {
+    display: block
+}
+
+p {
+    padding: 5px 14px;
+    margin: 0;
+    transition: all .1s
+}
+
+p:hover {
+    background: coral;
+    -webkit-transform: scale(1.05);
+    color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 30px -10px #000
+}
+/*Ik heb zoals ik ook al als comment in de HTML heb gezet, vooral codepen.io geraadpleegd om een dropdown als deze samen te stellen./* 
